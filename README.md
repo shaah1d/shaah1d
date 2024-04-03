@@ -1,6 +1,6 @@
 # Shaahid - Full Stack Web Developer
 
-## Introduction-
+## Introduction
 I am Shaahid, a passionate Full Stack Web Developer with a keen interest in building robust and innovative web applications. I specialize in the MERN (MongoDB, Express.js, React.js, Node.js) stack, and I'm currently expanding my skills in React.js.
 
 ## Skills
