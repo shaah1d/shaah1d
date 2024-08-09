@@ -20,8 +20,8 @@ At **YuvaHR Services**, I worked as a Full Stack Developer where I was responsib
 
 **Key Contributions:**
 - Developed a dynamic, user-friendly interface with React.js.
-- Integrated secure user authentication and data management with MongoDB.
-- Collaborated closely with the Yuvahr team to ensure seamless deployment and continuous integration.
+- Integrated a backend to email resumes to the client.
+- Implemented file upload with client-side validation. 
 
 **Technologies Used:** React.js, Node.js, Express.js,, Git
 
