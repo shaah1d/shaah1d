@@ -12,7 +12,7 @@ I'm a passionate Full Stack Web Developer specializing in the **MERN** (MongoDB,
 
 ## 💼 Freelance Work
 
-### [Yuvahr](https://yuvahr.vercel.app/) 
+### [Yuvahr](https://yuvahr.com/) 
 **Role:** Full Stack Developer  
 
 **Overview:**  
