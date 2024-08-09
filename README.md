@@ -45,7 +45,7 @@ I'm currently focusing on expanding my frontend development skills by mastering 
 
 I'm always open to project collaborations and discussions. Feel free to reach out to me!
 
-- **Email:** [shaahid2453@gmail.com](mailto:writetoshaahid@gmail.com)
+- **Email:** [writetoshaahid@gmail.com](mailto:writetoshaahid@gmail.com)
 
 Let's connect and work on something amazing together!
 
