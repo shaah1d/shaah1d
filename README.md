@@ -1,25 +1,51 @@
-# Shaahid - MERN Stack Developer
+# Hi there, I'm Shaahid 👋
 
-## Introduction
-I am Shaahid, a passionate Full Stack Web Developer with a keen interest in building robust and innovative web applications. I specialize in the MERN (MongoDB, Express.js, React.js, Node.js) stack, and I'm currently expanding my skills in React.js.
+I'm a passionate Full Stack Web Developer specializing in the **MERN** (MongoDB, Express.js, React.js, Node.js) stack. I thrive on creating robust, innovative web applications and am continuously learning new technologies to enhance my skills.
 
-## Skills
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Version Control**: Git
+## 🛠️ Skills
 
-## Projects
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Version Control:** Git
+- **Currently Learning:** Next.js
+
+## 💼 Freelance Work
+
+### [Yuvahr](https://yuvahr.vercel.app/) 
+**Role:** Full Stack Developer  
+
+**Overview:**  
+At **Yuvahr**, I worked as a Full Stack Developer where I was responsible for designing and implementing a comprehensive web application using the MERN stack. The project involved creating an intuitive and responsive user interface with **React.js**, along with building robust backend services using **Node.js** and **Express.js**. 
+
+**Key Contributions:**
+- Developed a dynamic, user-friendly interface with React.js.
+- Integrated secure user authentication and data management with MongoDB.
+- Collaborated closely with the Yuvahr team to ensure seamless deployment and continuous integration.
+
+**Technologies Used:** React.js, Node.js, Express.js,, Git
+
+This project allowed me to apply and expand my skills in full-stack development while contributing to a meaningful and impactful platform.
+
+## 🌟 Projects
+
 Here are some of the projects I have worked on:
-1. **NewsJS**: NewsJS is an app that allows users to search for the latest news on any topic worldwide. It provides a user-friendly interface for searching and browsing news articles, keeping users updated on current events and trends. .
-2. **TaskVault**: TaskVault is a versatile productivity platform, seamlessly integrating a robust to-do list with advanced note-taking and journaling capabilities, empowering users to efficiently manage tasks and organize their thoughts.
-3. **FarmStand**: The Farmstand App is a web application designed for managing products available in a farm stand. It allows users to add new products, update existing ones, and view the list of available products. This app helps farmers and vendors efficiently manage their inventory and showcase their products to customers.
 
-## Current Focus
-I am currently focusing on learning React.js to enhance my frontend development skills and to build more interactive user interfaces.
+### [NewsJS](https://github.com/yourusername/newsjs)
+**NewsJS** is a web app that allows users to search for the latest news on any topic worldwide. It provides a user-friendly interface for searching and browsing news articles, keeping users updated on current events and trends.
 
-## Contact Me
-- **Email**: shaahid2453@gmail.com
+### [YelpCamp](https://yelpcamp-4duy.onrender.com)
+**YelpCamp** is a web application where users can share information about campgrounds, read reviews from other campers, and rate campgrounds. It is inspired by the Yelp website but focused specifically on camping locations.
 
+## 🎯 Current Focus
 
-Feel free to reach out to me via email for any project collaborations or discussions. I'm excited to work on new projects and contribute to innovative ideas!
+I'm currently focusing on expanding my frontend development skills by mastering **React.js** and **Tailwind CSS**. Additionally, I'm diving into **Next.js** to build more dynamic and scalable web applications.
+
+## 📫 Contact Me
+
+I'm always open to project collaborations and discussions. Feel free to reach out to me!
+
+- **Email:** [shaahid2453@gmail.com](mailto:shaahid2453@gmail.com)
+
+Let's connect and work on something amazing together!
+
