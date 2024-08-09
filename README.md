@@ -12,11 +12,11 @@ I'm a passionate Full Stack Web Developer specializing in the **MERN** (MongoDB,
 
 ## 💼 Freelance Work
 
-### [Yuvahr](https://yuvahr.com/) 
+### [YuvaHR Services](https://yuvahr.com/) 
 **Role:** Full Stack Developer  
 
 **Overview:**  
-At **Yuvahr**, I worked as a Full Stack Developer where I was responsible for designing and implementing a comprehensive web application using the MERN stack. The project involved creating an intuitive and responsive user interface with **React.js**, along with building robust backend services using **Node.js** and **Express.js**. 
+At **YuvaHR Services**, I worked as a Full Stack Developer where I was responsible for designing and implementing a comprehensive web application using the MERN stack. The project involved creating an intuitive and responsive user interface with **React.js**, along with building robust backend services using **Node.js** and **Express.js**. 
 
 **Key Contributions:**
 - Developed a dynamic, user-friendly interface with React.js.
