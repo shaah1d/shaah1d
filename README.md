@@ -31,6 +31,9 @@ This project allowed me to apply and expand my skills in full-stack development 
 
 Here are some of the projects I have worked on:
 
+### [Quizzify](https://quizz1fy.vercel.app/)
+**Quizzify** is a dynamic quiz game website built using the Open Trivia DB API. It allows users to generate quiz questions based on selected categories and difficulty levels. This project was created to enhance my understanding of React and to practice using DaisyUI for styling.
+
 ### [NewsJS](https://github.com/yourusername/newsjs)
 **NewsJS** is a web app that allows users to search for the latest news on any topic worldwide. It provides a user-friendly interface for searching and browsing news articles, keeping users updated on current events and trends.
 
