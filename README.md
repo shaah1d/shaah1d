@@ -1,54 +1,60 @@
 # Hi there, I'm Shaahid 👋
 
-I'm a passionate Full Stack Web Developer specializing in the **MERN** (MongoDB, Express.js, React.js, Node.js) stack. I thrive on creating robust, innovative web applications and am continuously learning new technologies to enhance my skills.
+I'm a passionate **Full Stack Web Developer** and **AI enthusiast**, specializing in building interactive, data-driven applications using modern web technologies. With a solid background in the MERN stack and hands-on experience with AI-driven tools and APIs, I strive to create impactful and intuitive applications that solve real-world problems.
 
 ## 🛠️ Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Version Control:** Git
-- **Currently Learning:** Next.js
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, DaisyUI  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**AI & Machine Learning:** LangChain, OpenAI API, Pinecone or Supabase(for vector embeddings), Gemini  
+**Mobile Development:** React Native  
+**Version Control:** Git, GitHub  
 
-## 💼 Freelance Work
 
-### [YuvaHR Services](https://yuvahr.com/) 
-**Role:** Full Stack Developer  
+## 💼 Professional Experience
 
-**Overview:**  
-At **YuvaHR Services**, I worked as a Full Stack Developer where I was responsible for designing and implementing a comprehensive web application using the MERN stack. The project involved creating an intuitive and responsive user interface with **React.js**, along with building robust backend services using **Node.js** and **Express.js**. 
+### YuvaHR Services
+**Role:** Full Stack Developer
 
-**Key Contributions:**
-- Developed a dynamic, user-friendly interface with React.js.
-- Integrated a backend to email resumes to the client.
-- Implemented file upload with client-side validation. 
+At **YuvaHR Services**, I contributed as a Full Stack Developer, creating a comprehensive web application using the MERN stack. My work included designing a user-friendly interface, developing backend services, and integrating essential features like email and file uploads. This role helped me hone my skills in building responsive, data-driven applications.
 
-**Technologies Used:** React.js, Node.js, Express.js,, Git
-
-This project allowed me to apply and expand my skills in full-stack development while contributing to a meaningful and impactful platform.
+- **Key Contributions:**
+   - Developed a dynamic, user-friendly interface with React.js.
+   - Integrated backend functionalities for seamless email and resume handling.
+   - Implemented client-side validation for file uploads to ensure a smooth user experience.
+- **Technologies Used:** React.js, Node.js, Express.js, MongoDB, Git
 
 ## 🌟 Projects
 
-Here are some of the projects I have worked on:
+Here are some of the recent projects I've built or contributed to:
 
-### [Quizzify](https://quizz1fy.vercel.app/)
-**Quizzify** is a dynamic quiz game website built using the Open Trivia DB API. It allows users to generate quiz questions based on selected categories and difficulty levels. This project was created to enhance my understanding of React and to practice using DaisyUI for styling.
+### **Nostalgia**
+An AI-powered journaling app that allows users to save memories and recall them in an interactive, story-like format. Using LangChain and vector embeddings, Nostalgia enables users to ask questions about stored memories, providing a unique way to revisit past experiences.
 
-### [NewsJS](https://github.com/shaah1d/NewsJS)
-**NewsJS** is a web app that allows users to search for the latest news on any topic worldwide. It provides a user-friendly interface for searching and browsing news articles, keeping users updated on current events and trends.
+### **Kuesuto**
+A personalized quiz platform that uses the Gemini 1.5 model to generate quiz questions on any topic. Created for exam prep or casual learning, Kuesuto offers users the chance to test knowledge and learn interactively.
 
-### [YelpCamp](https://yelpcamp-4duy.onrender.com)
-**YelpCamp** is a web application where users can share information about campgrounds, read reviews from other campers, and rate campgrounds. It is inspired by the Yelp website but focused specifically on camping locations.
+### **Quizzify**
+Quizzify is a dynamic quiz game website built with the Open Trivia DB API, enabling users to generate quizzes based on selected categories and difficulty levels. This project enhanced my React skills and introduced me to DaisyUI for UI styling.
+
+### **NewsJS**
+NewsJS is a news aggregation app that allows users to search for the latest articles worldwide. Using the News API, NewsJS pulls articles from various reputable sources, providing users with a comprehensive view of current events.
+
+### **YelpCamp**
+YelpCamp is a community-driven web app where users can share, review, and rate campgrounds. This project taught me the intricacies of handling user-generated content and implementing CRUD functionalities for a smooth user experience.
+
+### **Portfolio Website (In Progress)**
+An interactive portfolio site built with Next.js and TypeScript, showcasing my work and skills. The website features a seamless, responsive design with animations and optimized loading speeds.
 
 ## 🎯 Current Focus
 
-I'm currently focusing on expanding my frontend development skills by mastering **React.js** and **Tailwind CSS**. Additionally, I'm diving into **Next.js** to build more dynamic and scalable web applications.
+I'm currently advancing my expertise in **Next.js** to build scalable, server-rendered applications and exploring **embedding models** for AI-powered projects. I’m also diving deeper into **React Native** to enhance my mobile development skills and expand the scope of my projects.
 
 ## 📫 Contact Me
 
-I'm always open to project collaborations and discussions. Feel free to reach out to me!
+I'm always open to collaborating on exciting projects or discussing new ideas! Feel free to reach out:
 
-- **Email:** [writetoshaahid@gmail.com](mailto:writetoshaahid@gmail.com)
-
-Let's connect and work on something amazing together!
+**Email:** writetoshaahid@gmail.com  
+Let’s connect and work on something amazing together!
 
