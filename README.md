@@ -1,6 +1,5 @@
-<h1 align="center">Hi , I'm shaahid</h1>
-<h3 align="center">I build web applications and write smart contracts</h3>
-<h4 align="center">Visit <a href="https://shaahid.xyz" font="serif" color="white" >shaahid.xyz</a> to know more.</h4>
+
+<img width="1280" height="420" alt="github-banner" src="https://github.com/user-attachments/assets/bdeddd21-31b4-4277-b493-3a32de1e83ea" />(https://shaahid.xyz)
 
 
 <h2 align="center">
