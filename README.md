@@ -1,3 +1,6 @@
+<h1 align="center">Hi , I'm shaahid</h1>
+<h3 align="center">I build web applications and write smart contracts</h3>
+
 <h2 align="center">
   
 <img src ="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
