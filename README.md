@@ -1,5 +1,5 @@
 
-<img width="1280" height="420" alt="github-banner" src="https://github.com/user-attachments/assets/bdeddd21-31b4-4277-b493-3a32de1e83ea" />(https://shaahid.xyz)
+[<img width="1280" height="420" alt="github-banner" src="https://github.com/user-attachments/assets/bdeddd21-31b4-4277-b493-3a32de1e83ea" />](https://shaahid.xyz)
 
 
 <h2 align="center">
