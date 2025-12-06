@@ -18,9 +18,7 @@
 
 </h2>
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=shaah1d&theme=dark&show_icons=true&count_private=true">
-</td></tr></tbody></table>
-  
+<p align="center">
+<img src ="https://lakshay-github-readme-stats.vercel.app/api?username=shaah1d&show_icons=true&hide=prs,issues&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1116&hide_border=true&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD" alt="GitHub Stats" height="50%" width="auto">
 <img src ="https://lakshay-github-readme-stats.vercel.app/api/top-langs/?username=shaah1d&size_weight=0.5&count_weight=1&layout=compact&bg_color=0D1116&hide_border=true&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD" alt="Top Languages" height="50%" width="auto">
 </p>
