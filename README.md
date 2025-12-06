@@ -18,9 +18,9 @@
 
 </h2>
 
-<p align="center">
-
-  [![shaahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaah1d)](https://github.com/anuraghazra/github-readme-stats)
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=shaah1d&theme=dark&show_icons=true&count_private=true">
+</td></tr></tbody></table>
   
 <img src ="https://lakshay-github-readme-stats.vercel.app/api/top-langs/?username=shaah1d&size_weight=0.5&count_weight=1&layout=compact&bg_color=0D1116&hide_border=true&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD" alt="Top Languages" height="50%" width="auto">
 </p>
