@@ -19,7 +19,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://lakshay-github-readme-stats.vercel.app/api?username=shaah1d&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1116&hide_border=true&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD" alt="GitHub Stats" height="180">
+  <!-- <img src="https://lakshay-github-readme-stats.vercel.app/api?username=shaah1d&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1116&hide_border=true&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD" alt="GitHub Stats" height="180"> -->
   <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=shaah1d&theme=dark&background=0D1116&hide_border=true&ring=65E0BD&fire=65E0BD&currStreakLabel=65E0BD&sideNums=FDFFF5&sideLabels=FDFFF5&dates=FDFFF5" alt="Streak" height="180">
   <img src="https://lakshay-github-readme-stats.vercel.app/api/top-langs/?username=shaah1d&size_weight=0.5&count_weight=1&layout=compact&bg_color=0D1116&hide_border=true&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD" alt="Top Languages" height="180">
 </p>
